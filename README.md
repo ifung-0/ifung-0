@@ -37,9 +37,15 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28" height="28" alt="About" /> About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%91%A4+About+Me" alt="About Header" />
+
+</div>
 
 <table align="center">
 <tr>
@@ -64,9 +70,15 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="28" height="28" alt="Tech Stack" /> Tech Stack
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack Header" />
+
+</div>
 
 <table align="center">
 <tr>
@@ -103,21 +115,27 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 
 | Category | Technologies | Level |
 |:---|:---|:---|
-| **Languages** | Python, JavaScript, TypeScript, HTML5, CSS3, Bash, SQL | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Frontend** | React, Vue.js, HTML5, CSS3, WebSockets | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Backend** | Flask, FastAPI, Node.js, GraphQL, gRPC | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **AI/ML** | GPT-4, Claude, Qwen, LLM Integration, NLP | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Satellite** | Satpy, Dask, xarray, Rasterio, GDAL | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Automation** | Playwright, Selenium, Browser Automation | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Cloud** | AWS, Azure, GCP, Docker, Kubernetes | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Data** | Pandas, NumPy, Dask, Spark, Kafka | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **DevOps** | Git, GitHub Actions, CI/CD, Terraform | ![100%](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
-| **Databases** | PostgreSQL, MongoDB, Redis, DynamoDB | ![90%](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
-| **Security** | OWASP, Secure Architecture, Compliance | ![90%](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
+| **Languages** | Python, JavaScript, TypeScript, HTML5, CSS3, Bash, SQL | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Frontend** | React, Vue.js, HTML5, CSS3, WebSockets | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Backend** | Flask, FastAPI, Node.js, GraphQL, gRPC | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **AI/ML** | GPT-4, Claude, Qwen, LLM Integration, NLP | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Satellite** | Satpy, Dask, xarray, Rasterio, GDAL | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Automation** | Playwright, Selenium, Browser Automation | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Cloud** | AWS, Azure, GCP, Docker, Kubernetes | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Data** | Pandas, NumPy, Dask, Spark, Kafka | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **DevOps** | Git, GitHub Actions, CI/CD, Terraform | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) |
+| **Databases** | PostgreSQL, MongoDB, Redis, DynamoDB | ![Advanced](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
+| **Security** | OWASP, Secure Architecture, Compliance | ![Advanced](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="28" height="28" alt="AI/ML" /> AI/ML Expertise
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%A7%A0+AI%2FML+Expertise" alt="AI/ML Header" />
+
+</div>
 
 | Domain | Level | Details | Impact |
 |:---|:---|:---|:---|
@@ -129,9 +147,15 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 | **API Integration** | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) | REST, GraphQL, gRPC, WebSocket | 99.99% uptime |
 | **ML Infrastructure** | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) | Model Serving, MLOps, Monitoring | 1M+ predictions/day |
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="28" height="28" alt="Projects" /> Featured Projects
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%9A%80+Featured+Projects" alt="Projects Header" />
+
+</div>
 
 <details>
 <summary><b>🛰️ Himawari-9-HSD-to-PNG-converter</b></summary>
@@ -228,9 +252,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </details>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="28" height="28" alt="Experience" /> Experience
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%93%8B+Experience" alt="Experience Header" />
+
+</div>
 
 <table align="center">
 <tr>
@@ -301,9 +331,15 @@ Interactive space exploration platform with real-time animations and particle sy
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/7518/7518748.png" width="28" height="28" alt="Achievements" /> Achievements
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%8F%86+Achievements" alt="Achievements Header" />
+
+</div>
 
 <div align="center">
 
@@ -317,9 +353,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="28" height="28" alt="Certifications" /> Certifications
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%93%9B+Certifications" alt="Certifications Header" />
+
+</div>
 
 <div align="center">
 
@@ -348,9 +390,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3658/3658639.png" width="28" height="28" alt="Coding" /> Coding Profiles
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%8E%AE+Coding+Profiles" alt="Coding Header" />
+
+</div>
 
 <div align="center">
 
@@ -369,9 +417,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583345.png" width="28" height="28" alt="Analytics" /> GitHub Analytics
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%93%8A+GitHub+Analytics" alt="Analytics Header" />
+
+</div>
 
 <div align="center">
 
@@ -395,9 +449,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="28" height="28" alt="Activity" /> Contribution Activity
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%93%8C+Contribution+Activity" alt="Activity Header" />
+
+</div>
 
 <div align="center">
 
@@ -407,9 +467,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1159/1159633.png" width="28" height="28" alt="Snake" /> Contribution Snake
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%90%8D+Contribution+Snake" alt="Snake Header" />
+
+</div>
 
 <div align="center">
 
@@ -418,9 +484,15 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="28" height="28" alt="Focus" /> Current Focus
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%94%A5+Current+Focus" alt="Focus Header" />
+
+</div>
 
 ```yaml
 learning:
@@ -449,9 +521,15 @@ open_to:
   - "VP of Engineering"
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2428/2428959.png" width="28" height="28" alt="Connect" /> Connect
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%94%97+Connect" alt="Connect Header" />
+
+</div>
 
 <div align="center">
 
