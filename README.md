@@ -479,10 +479,7 @@ Interactive space exploration platform with real-time animations and particle sy
 
 <div align="center">
 
-<!-- Snake generates after GitHub Action runs. Action file: .github/workflows/snake.yml -->
-<!-- Once action runs, uncomment this line: -->
-<!-- <img src="https://raw.githubusercontent.com/ifung-0/ifung-0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifung-0&bg_color=0d1117&color=06B6D4&line=06B6D4&point=ffffff&area=false&hide_border=true" alt="Contribution Grid" width="100%" />
+<img src="https://raw.githubusercontent.com/ifung-0/ifung-0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
