@@ -441,7 +441,7 @@ Interactive space exploration platform with real-time animations and particle sy
 <div align="center">
 
 <a href="https://github.com/ifung-0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifung-0&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9&hide_border=true&langs_count=8&hide=html,css,batchfile,shell" width="100%" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifung-0&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9&hide_border=true&langs_count=8" width="100%" alt="Languages" />
 </a>
 
 </div>
