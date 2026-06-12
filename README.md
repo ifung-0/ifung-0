@@ -414,7 +414,7 @@ Interactive space exploration platform with real-time animations and particle sy
 <div align="center">
 
 <!-- Run platane/snake GitHub Action to generate: https://github.com/platane/snake -->
-<img src="https://raw.githubusercontent.com/platane/snake/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/ifung-0/ifung-0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
