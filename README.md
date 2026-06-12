@@ -37,13 +37,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=50&section=header&text=%F0%9F%91%A4+About+Me&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=50&section=header&text=%F0%9F%91%A4+About+Me&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -70,7 +70,7 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
@@ -127,13 +127,13 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 | **Databases** | PostgreSQL, MongoDB, Redis, DynamoDB | ![Advanced](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
 | **Security** | OWASP, Secure Architecture, Compliance | ![Advanced](https://img.shields.io/badge/Advanced-06B6D4?style=flat-square) |
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=50&section=header&text=%F0%9F%A7%A0+AI%2FML+Expertise&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=50&section=header&text=%F0%9F%A7%A0+AI%2FML+Expertise&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -147,7 +147,7 @@ I possess **elite-level expertise** across the full engineering spectrum: from l
 | **API Integration** | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) | REST, GraphQL, gRPC, WebSocket | 99.99% uptime |
 | **ML Infrastructure** | ![Expert](https://img.shields.io/badge/Expert-06B6D4?style=flat-square) | Model Serving, MLOps, Monitoring | 1M+ predictions/day |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
@@ -252,13 +252,13 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=slender&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slender&color=06B6D4&height=50&section=header&text=%F0%9F%93%8B+Experience&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=50&section=header&text=%F0%9F%93%8B+Experience&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -331,13 +331,13 @@ Interactive space exploration platform with real-time animations and particle sy
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=50&section=header&text=%F0%9F%8F%86+Achievements&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=50&section=header&text=%F0%9F%8F%86+Achievements&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -353,13 +353,13 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=50&section=header&text=%F0%9F%93%9B+Certifications&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=50&section=header&text=%F0%9F%93%9B+Certifications&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -390,13 +390,13 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=50&section=header&text=%F0%9F%8E%AE+Coding+Profiles&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=50&section=header&text=%F0%9F%8E%AE+Coding+Profiles&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -417,13 +417,13 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=50&section=header&text=%F0%9F%93%8A+GitHub+Analytics&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=50&section=header&text=%F0%9F%93%8A+GitHub+Analytics&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -449,13 +449,13 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slender&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slender&color=06B6D4&height=50&section=header&text=%F0%9F%93%8C+Contribution+Activity&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=50&section=header&text=%F0%9F%93%8C+Contribution+Activity&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -467,29 +467,32 @@ Interactive space exploration platform with real-time animations and particle sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=06B6D4&height=50&section=header&text=%F0%9F%90%8D+Contribution+Snake&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=50&section=header&text=%F0%9F%90%8D+Contribution+Snake&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-snake.vercel.app/ifung-0" alt="Snake Animation" width="100%" />
+<!-- Snake generates after GitHub Action runs. Action file: .github/workflows/snake.yml -->
+<!-- Once action runs, uncomment this line: -->
+<!-- <img src="https://raw.githubusercontent.com/ifung-0/ifung-0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifung-0&bg_color=0d1117&color=06B6D4&line=06B6D4&point=ffffff&area=false&hide_border=true" alt="Contribution Grid" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=50&section=header&text=%F0%9F%94%A5+Current+Focus&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=06B6D4&height=50&section=header&text=%F0%9F%94%A5+Current+Focus&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -520,13 +523,13 @@ open_to:
   - "VP of Engineering"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=40&section=separator" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=30&section=separator" width="100%" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=06B6D4&height=50&section=header&text=%F0%9F%94%97+Connect&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=50&section=header&text=%F0%9F%94%97+Connect&fontSize=24&fontColor=ffffff&animation=fadeIn" width="60%"/>
 
 </div>
 
@@ -551,7 +554,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20architect%20the%20future%20together.%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20architect%20the%20future%20together.%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 **"I don't just build software — I architect systems that reshape industries."**
 
